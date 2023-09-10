@@ -1,14 +1,14 @@
 Hi 👋 My name is Rauli Rolig
 ============================
 
-2\. year information technology student
+3\. year information technology student
 ---------------------------------------
 
 After "switching careers" from physical work to coding. I've come to a conclusion that there are some things that are quite similar. Things can be done many ways, some are better than others. There is a clear structure in the projects and there are many things that you have to learn by only doing them many times. Now I eagerly want to get to know this field. I'm most interested in AI, cloud and backend. Of course I also like some frontend.
 
 * 🌍  I'm based in Jyväskylä, Finland
 * ✉️  You can contact me at [https://www.linkedin.com/in/rauli-rolig/](mailto:https://www.linkedin.com/in/rauli-rolig/)
-* 🧠  I'm learning backend right now
+* 🧠  I'm in a team where I'm making node.js, express, dynamodb backend right now
 
 ### Skills
 
